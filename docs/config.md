@@ -103,3 +103,7 @@ services:
 ## Getting information
 
 You can get connection and credential information about your solr instance by running [`lando info`](https://docs.lando.dev/cli/info.html). It may also be worth checking out our [accessing services externally guide](https://docs.lando.dev/guides/external-access.html).
+
+## Drupal Configuration
+- Ideally, you would use similar to the below in your Drupal configuration
+- ![CleanShot 2023-07-08 at 11 52 17](https://github.com/lando/solr/assets/661146/8d54b53a-7ee1-4634-b668-b05931fc13bc)
